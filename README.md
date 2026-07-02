@@ -17,4 +17,4 @@ A fast, lightweight, and flexible multi-step unit converter built with **Dear Im
 * `g++` compiler
 
 ## Installation & Compilation
-Clone the repository and compile using gcc
+Clone the repository and compile using g++
