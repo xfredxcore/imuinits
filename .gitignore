@@ -1,0 +1,5 @@
+imuinits
+*.o
+*.obj
+*.log
+.DS_Store
