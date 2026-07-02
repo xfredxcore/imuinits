@@ -1,3 +1,5 @@
+![Interface Screenshot](screenshot.png)
+
 # imuinits
 
 A fast, lightweight, and flexible multi-step unit converter built with **Dear ImGui**, **GLFW**, and **OpenGL3**, powered by the robust **GNU Units** engine under the hood.
