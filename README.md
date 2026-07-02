@@ -9,7 +9,7 @@ A fast, lightweight, and flexible multi-step unit converter built with **Dear Im
 * **Modern Dark Theme:** Clean, scannable UI designed for engineers.
 
 ## Requirements
-* `gnu-units` (must be installed on your system)
+* `units`
 * `glfw`
 * `opengl`
 * `g++` compiler
